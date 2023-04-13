@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "shim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shim.js",
+  "scripts": {
+    "app": "node --require ./shim.cjs app.js"
+  },
+  "author": "",
+  "license": "MIT"
+}

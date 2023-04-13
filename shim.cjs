@@ -1,0 +1,1 @@
+import("./esmodule.js");
